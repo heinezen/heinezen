@@ -1,7 +1,7 @@
 ### About me 👋
 
 Hi, I'm Chris and *~~graphic design~~ organization management is my passion*.
-At least that's what I've been doing for the past ~8 years, so I can't really deny it any longer 😄
+At least that's what I've been doing for the past ~9 years, so I can't really deny it any longer 😄
 You can usually find me working on a variety of free software projects, often as part of the architecture team or as
 a community manager.
 
